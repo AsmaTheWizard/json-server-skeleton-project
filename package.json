@@ -1,0 +1,15 @@
+{
+  "name": "json-server-skeleton-project",
+  "version": "1.0.0",
+  "description": "sketeton server using  json-server to create REST API from data.json file",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
